@@ -1,0 +1,12 @@
+.timer-text{
+  display: inline-block;
+  padding: 20px;
+  background: blue;
+  color: #fff;
+  font-size: 40px;
+  font-weight: 900;
+}
+.timer-static{
+  font-size: 20px;
+
+}
